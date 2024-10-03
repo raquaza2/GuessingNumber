@@ -8,3 +8,4 @@ changes = 3
 
 guessCounter = 0
 
+while guessCounter < changes:
